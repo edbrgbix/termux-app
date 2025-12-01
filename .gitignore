@@ -1,39 +1,20 @@
-# From https://gist.github.com/iainconnor/8605514
-# with the addition of the /captures below.
-/captures
-
-# Built application files
-build/
-release/
-*.apk
-*.so
-.externalNativeBuild
-.cxx
-*.zip
-
-# Local configuration file (sdk path, etc)
-local.properties
-
-# Gradle generated files
-.gradle/
-
-# Signing files
-.signing/
-
-# Intellij
-.idea/
-*.iml
-
-# Vim
-*.swo
-*.swp
-
-# OS-specific files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-.swp
-ehthumbs.db
-Thumbs.db
+adt
+asf
+any.do
+nullroot
+errno1..max
+-y
+bash
+bug
+zapier
+nullerrno=666
+ blank
+ruby
+[*.]ru&cn
+-419
+igno...
+~
+z
+lib
+sudo
+fake
